@@ -19,7 +19,7 @@ import clouds from '../Assets/clouds.jpg';
 
 
 export const WeatherApp = () => {
-  let api_key="81879ccb9d18e3b7ce2cb1d8a3db9575";
+  let api_key="your api key"; //openweathermap api key
   const[wicon,setWicon] = useState(cloud_icon);
   const [backgroundImage, setBackgroundImage] = useState(cloudyy); // Default background image
   
