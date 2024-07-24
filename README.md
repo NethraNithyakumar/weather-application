@@ -63,7 +63,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 ### Deployment
 
-Deployed using the open cloud based hosting website 
+Deployed using the free cloud based hosting website "NETLIFY"
 
 ### `npm run build` fails to minify
 
